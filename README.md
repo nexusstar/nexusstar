@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome! </br> I'm Petar Nikov, Frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323357.png" width="13"/> <b>Sofia, Bulgaria. </p>
+<p>Welcome! </br> I'm Petar Nikov, developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323357.png" width="13"/> <b>Sofia, Bulgaria. </p>
 <h4>Things I am used to code with: </h4>
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=lat-square&logo=javascript&logoColor=%23F7DF1E)" />
@@ -21,8 +21,19 @@
   <img alt="go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
 </p>
 
-- 🔭 I’m currently working at [@Developsoft](https://developsoft.com/) on stuff for [@Gamitee](https://gamitee.com/).
-- ⚡ Fun fact: I love learning new stuff.
+- 🔭 I’m currently working at <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ [@Developsoft](https://developsoft.com/) on stuff for [@Gamitee](https://gamitee.com/).
+- 😄 fact: I love the process of learning and unkown.
+- 
+
+### 🚀 Quick Stats
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexusstar&show_icons=true&line_height=21&theme=react" alt="Petar Nikov Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusstar&theme=react&line_height=27&layout=compact" />
+</p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=nexusstar)
 
 <h4>Where to find me</h4>
 <p><a href="https://github.com/nexusstar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/nexusstar" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/petarnikov" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
