@@ -29,11 +29,8 @@
 ### 🚀 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nexusstar&show_icons=true&line_height=21&theme=react" alt="Petar Nikov Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusstar&theme=react&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusstar&theme=react&line_height=27&layout=compact&langs_count=6&hide=c%2B%2B,c%23,html" />
 </p>
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=nexusstar)
 
 <h4>Where to find me</h4>
 <p><a href="https://github.com/nexusstar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/nexusstar" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/petarnikov" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
