@@ -28,7 +28,7 @@
 
 ### 🚀 Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexusstar&show_icons=true&line_height=21&theme=react" alt="Petar Nikov Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexusstar&show_icons=true&count_private=true&line_height=21&theme=react" alt="Petar Nikov Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexusstar&theme=react&line_height=27&layout=compact&langs_count=6&hide=c%2B%2B,c%23,html" />
 </p>
 
