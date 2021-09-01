@@ -24,7 +24,6 @@
 - 🔭 I’m currently working at <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  [@Developsoft](https://developsoft.com/) on stuff for [@Gamitee](https://gamitee.com/).
 - 😄 fact: I love the process of learning and unkown.
-- 
 
 ### 🚀 Quick Stats
 <p align="center">
