@@ -21,8 +21,8 @@
   <img alt="go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" />
 </p>
 
-- 🔭 I’m currently working at <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- [@Developsoft](https://developsoft.com/) with passion.
+- 🔭 I’m currently working <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ with passion.
 - 😄 fact: I love the process of learning and unkown.
 
 ### 🚀 Quick Stats
