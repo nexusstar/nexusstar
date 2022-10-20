@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hej! Nice to see you.</h1>
 
 <p>Welcome! </br> I'm Petar Nikov, developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323357.png" width="13"/> <b>Sofia, Bulgaria. </p>
 <h4>Things I am used to code with: </h4>
